@@ -105,3 +105,66 @@ You can also find summaries in the `/summaries` folder in Markdown format.
 To get your copy of *The Great Gatsby*:
 
 👉 [Click here to download the PDF](https://free.chillfinds.biz/?utm_medium=e419e4d4e57d17f163ee4e72b59be1bc3350fc9a&utm_campaign=Global)
+
+
+🖼️ Screenshots
+Cover Page	Chapter Page	Quote Highlight
+
+🚀 Installation
+This is not a software project, but to set up locally:
+
+Clone this repository.
+
+Open the PDF with any reader.
+
+Use the Markdown notes in /notes for deeper analysis.
+
+🤝 Contribution Guide
+We welcome contributions in the form of:
+
+Improved formatting
+
+Additional literary analysis
+
+Chapter illustrations
+
+Alternate translations
+
+Audiobook versions
+
+Fork this repo and open a Pull Request (PR).
+
+📄 License
+This project is licensed under the Creative Commons Public Domain (CC0) license.
+
+The original text of The Great Gatsby is in the public domain in many countries, including the United States.
+
+⚖️ Legal Disclaimer
+This repository is a public domain archive. It is NOT affiliated with or endorsed by the Fitzgerald estate or any publisher. You must check your local laws before distributing or modifying this file.
+
+This is strictly for educational and literary purposes.
+
+❓ FAQ
+1. Is this version complete and unabridged?
+Yes, this PDF includes the entire original text.
+
+2. Can I use this PDF in my classroom?
+Absolutely. It's public domain and free for educational use.
+
+3. Can I modify the PDF for personal use?
+Yes, you’re free to customize or annotate it.
+
+4. Is this an official version?
+No, it is a community-driven project for public domain literature.
+
+5. Where can I learn more about the novel?
+Check out the /resources folder for links to essays, discussions, and study guides.
+
+🙏 Acknowledgments
+Thanks to Project Gutenberg for inspiring open literature access.
+
+Appreciation to contributors of public domain art for the cover.
+
+Gratitude to all literary educators promoting free access.
+
+
